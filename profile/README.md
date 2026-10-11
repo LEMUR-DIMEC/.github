@@ -4,7 +4,7 @@ LEMUR is a research and development laboratory at the Mechanical Engineering Dep
 
 ## Main Projects
 
-### KiLTRO - Quadruped robot [MuJoCo model](https://github.com/LEMUR-DIMEC/KiLTRO)
+### KiLTRO - Quadruped robot ([MuJoCo model](https://github.com/LEMUR-DIMEC/KiLTRO))
 
 This project was born in early 2024 at the [Mechanical Engineering Department](https://dimec.uchile.cl/) by Design of Mechanical Systems students.
 
