@@ -4,11 +4,11 @@ LEMUR is a research and development laboratory at the Mechanical Engineering Dep
 
 ## Main Projects
 
-### Perrito - Quadruped robot
+### Perrito - Quadruped robot [MuJoCo model](https://github.com/LEMUR-DIMEC/KiLTRO)
 
 This project was born in early 2024 at the [Mechanical Engineering Department](https://dimec.uchile.cl/) by Design of Mechanical Systems students.
 
-<img src= https://raw.githubusercontent.com/LabRobDIMEC/HANDS_ON_GEARBOX_PERRITO/refs/heads/main/perrito_iso.png height=400>
+<img src=https://raw.githubusercontent.com/LEMUR-DIMEC/KiLTRO/refs/heads/main/images/KiLTRO.jpg height=400>
 
 ### Robotic Manipulator for Quadruped robot
 
