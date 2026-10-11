@@ -12,7 +12,7 @@ This project was born in early 2024 at the [Mechanical Engineering Department](h
 
 ### Robotic Manipulator for Quadruped robot
 
-<img src= "https://drive.google.com/uc?export=view&id=1c8yuCVYPS4xV_2-xN5H_CCGKrL0qmHzn" height=400>
+<img src= "https://drive.google.com/uc?export=view&id=1Kz53UUzohFdIQZmxtrcKHF-LU9zt4rIW" height=400>
 
 ### Pellet Extruder for KUKA KR6/2
 
